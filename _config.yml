@@ -1,0 +1,23 @@
+name: RushCrossFit
+favicon: null
+layout_spectrum: 0.20669410564005375
+typography_spectrum: 0.8818639961536974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09569972846657038
+  lightness: 0.7502800095826387
+  saturation: 0.6970381133724004
+  rhythmicContrast: 0.4766018697991967
+purpose: []
